@@ -196,7 +196,7 @@
 					</div>
 					<footer>
 						<ul id="copyright">
-							<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; Frances Piercy. All rights reserved.</li><li>Design: <a href="http://www.mrpastry.co.uk">Joseph Piercy</a></li>
 						</ul>
 					</footer>
 				</div>
